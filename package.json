@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "dependencies": {
+        "chart.js": "~3.x",
+        "chartjs-plugin-datalabels": "*"
+    }
+}
