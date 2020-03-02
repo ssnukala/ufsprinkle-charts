@@ -1,2 +1,2 @@
-# ufsprinkle-charts
+# ufsprinkle-ufcharts
 Charts Sprinkle for UserFrosting
